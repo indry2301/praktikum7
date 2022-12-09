@@ -20,6 +20,7 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
 ![code8](https://user-images.githubusercontent.com/115906333/206629209-f57c8e70-d5d9-40c7-859b-74260b88a1e8.png).
 ## Hasil outputnya seperti ini:
 - Tampilan awal programnya.
+- Masih terlihat kosong.
 <img width="762" alt="tampilanawal" src="https://user-images.githubusercontent.com/115906333/206629409-14f4b850-0fcf-4c7e-978c-f12ac92e3565.png">.
 - Jika ingin menambah data ketik huruf (t).
 - Lalu akan diminta untuk menginput data.
