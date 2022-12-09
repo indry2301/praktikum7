@@ -9,7 +9,7 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
 - Fungsi (u)bah untuk mengubah data berdasarkan nama.
 - Buatlah flowchart dan penjelasan programnya.
 # Langkah-langkah:
-## Buatlah codingan seperti ini:
+# Buatlah codingan seperti ini:
 ![code1](https://user-images.githubusercontent.com/115906333/206628320-2774ba85-6bea-40a0-92b4-264a7ed8c01c.png).
 ![code2](https://user-images.githubusercontent.com/115906333/206629026-65018fd5-02ea-4ca8-9adf-f6e327b1bb1a.png).
 ![code3](https://user-images.githubusercontent.com/115906333/206629053-6a1a3255-eb46-4ca1-8303-ff31d8efbb91.png).
@@ -18,9 +18,8 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
 ![code6](https://user-images.githubusercontent.com/115906333/206629153-e2dfa933-8562-4bc5-bd54-d5ea5ac90ba5.png).
 ![code7](https://user-images.githubusercontent.com/115906333/206629177-c07e75f6-8b69-462f-b6b0-4d86da3f4ed6.png).
 ![code8](https://user-images.githubusercontent.com/115906333/206629209-f57c8e70-d5d9-40c7-859b-74260b88a1e8.png).
-## Hasil outputnya seperti ini:
-- Tampilan awal programnya.
-- Masih terlihat kosong.
+# Hasil outputnya seperti ini:
+- Tampilan awal program setelah di run.
 <img width="762" alt="tampilanawal" src="https://user-images.githubusercontent.com/115906333/206629409-14f4b850-0fcf-4c7e-978c-f12ac92e3565.png">.
 - Jika ingin menambah data ketik huruf (t).
 - Lalu akan diminta untuk menginput data.
@@ -38,9 +37,9 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
 <img width="764" alt="menulihat_setelahdihapus" src="https://user-images.githubusercontent.com/115906333/206630544-1cb865e4-b359-4da0-ba83-85c4e1ff3a90.png">.
 - Jika ingin keluar dari program ketik huruf (k).
 <img width="766" alt="menukeluar" src="https://user-images.githubusercontent.com/115906333/206630640-5e481147-4c80-434d-ba23-a62ecae4bc66.png">.
-## Adapun flowchart untuk program ini:
+# Adapun flowchart untuk program ini:
 <img width="469" alt="flowchart" src="https://user-images.githubusercontent.com/115906333/206630773-37306d89-87c6-4f67-9670-871aa645b172.png">.
-## Sekian dan terimakasih
+# Sekian dan terimakasih
 
 
 
